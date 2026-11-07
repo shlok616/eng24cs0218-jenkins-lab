@@ -50,5 +50,4 @@ pipeline {
         }
     }
 }
-```[cite: 8]
-📷 **TAKE SCREENSHOT [SS J9.1]**: `Jenkinsfile` in GitHub repository[cite: 8].
+
